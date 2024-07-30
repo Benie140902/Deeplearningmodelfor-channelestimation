@@ -74,7 +74,7 @@ Contributions to this project are welcome. Please feel free to submit a Pull Req
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
-#code
+#Code
 import numpy as np
 import pandas as pd
 from sklearn.preprocessing import StandardScaler, OneHotEncoder, LabelEncoder
